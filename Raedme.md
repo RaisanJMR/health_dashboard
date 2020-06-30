@@ -1,5 +1,6 @@
-# HEALTH TRACKER_UI
-## Health tracker user interface using CSS GRID 
+# RESPONSIVE HEALTH TRACKER_UI
+
+## Health tracker user interface using CSS GRID
 
 No library's, frameworks used
 
